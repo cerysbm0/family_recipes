@@ -2,7 +2,7 @@
 
 Grandma's recipes
 
-- Pizas (to do)
-- Sauses (to do)
-- reads (to do)
+- Pizzas (to do)
+- Sauces (to do)
+- Spreads (to do)
 
