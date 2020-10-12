@@ -2,7 +2,8 @@
 
 Grandma's recipes
 
-- Pizzas (to do)
+- Pizzas
+  - [base](./Pizzas/Base.md)
 - Sauces (to do)
 - Spreads (to do)
 
